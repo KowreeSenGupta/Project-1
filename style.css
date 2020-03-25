@@ -1,0 +1,57 @@
+body{
+    font-family: cursive;
+    margin: 0;
+}
+#first{
+    width: 100%;
+    height: auto;
+    background-color: rgb(192, 192, 192);
+    padding-bottom: 20%;
+}
+#first .project{
+    float: left;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#first .project p{
+    font-size: 20px;
+    line-height: 30px;
+}
+#first .project h1{
+    font-weight: bold;
+    font-size: 2em;
+    color: purple;
+}
+#work{
+    width: 100%;
+    height: auto;
+    padding: 50px 0px;
+    float: left;
+    background-color: rgb(236, 248, 253);
+}
+#work .desc{
+    width: 30%;
+    height: auto;
+    float: left;
+    margin-left: 10%;
+  
+}
+#work .desc h2{
+    color: blue;
+    font-size: 2em;
+}
+#work .desc p{
+    font-size: 20px;
+    line-height: 30px;
+    margin: 20px 0;
+}
+#work .image{
+    width: 45%;
+    height: auto;
+    float: left;
+    margin-right: 10%;
+    margin-left: 5%;
+}
+#work .image img{
+    width: 90%;
+}
